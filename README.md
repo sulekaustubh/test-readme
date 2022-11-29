@@ -102,9 +102,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <!-- New User Sign-up -->
 
 <br><b>➤ Sign-up:</b> This component allows new users to sign-up with a username, email and a password. The password is encrypted using the bcrypt library. If an existing user tries to sign-up, a message is displayed to the user for the same.
-<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-up.png" width="600" height="400"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-up.png" width="800" height="400"/><br></br>
 
 <!-- Existing User Login -->
 
 <br><b>➤ User Login:</b> Here, an existing user can log-in using his/her login credentials. And, their previous booking details are also displayed on the component 'Last Booking Details'.  
- <br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-in.png" width="600" height="400"/><br></br>
+ <br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-in.png" width="800" height="400"/><br></br>
