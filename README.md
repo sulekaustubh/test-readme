@@ -1,2 +1,112 @@
-# test-readme
- test-readme
+<div id="header" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/8841/8841503.png" width="100"/>
+</div>
+<div align="center">
+<h2>Hello ! <h2>
+  <p>Kaustubh Sule here !</p> 
+</div>
+
+<!-- Links to social profiles  -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/kaustubh-sule-b46303229/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtu.be/Tnof6r5ZSyc">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/KaustubhSule">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
+  ## Getting Started
+
+Clone the repository on your local machine with the command below in your terminal, and cd into the **my-app**
+
+```bash
+https://github.com/sulekaustubh/crypto-dashboard-react
+
+cd my-app
+```
+
+Install dependencies (if you are using yarn then do with that)
+
+```bash
+npm install
+```
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+  <h2>Project Description</h2>
+  <b>Project Name : BookMyShow </b>
+  <a href =" "/>
+  Live Here
+  </a>
+ <br>
+ </br>
+
+<b>Languages and Tools used: </b>
+
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+
+</div><br>
+
+<b>Team Collaborators: </b>
+
+  <p>➤ Ritu Verma</p>
+  <p>➤ Saad Ansari </p> 
+  <p>➤ Md. Ashif Reza</p>
+  <p>➤ Kaustubh Sule</p>
+  <p>➤ Parvez Ahmed Ansari</p><br>
+
+<b>Project Components:</b><br>
+
+<!-- Select Movie -->
+
+<b>➤ Movie name selection :</b> This component allows the user to select a movie of choice.
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-movie.jpeg" width="1200" height="200"/><br></br>
+
+<!-- Select Time Slot -->
+
+<br><b>➤ Time slot selection:</b> This component displays all the available time slots throughout the day. The user can select according to preference.
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-time.jpg" width="600" height="200"/><br></br>
+
+<!-- Select Seat Type & Quantity -->
+
+<br><b>➤ Seat Type & Quantity :</b> This component enables user to select a specific seat type and the quantity of seats required. The maximum amount available per user is limited to 10 seats.
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-seat.jpeg" width="1200" height="250"/><br></br>
+
+<!-- Book Now Button -->
+
+<br><b>➤ Book Now button:</b> This button confirms the user's choices and displays a message to the user that his/her seats have been successfully booked.
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/book-now.jpg" width="500" height="200"/><br></br>
+
+<!-- Last 3 ke screenshots abhi aane baaki hai -->
+
+<!-- Last Booking Details -->
+
+<br><b>➤ Last Booking Details:</b> If the user is a returning customer and has previously booked for a movie, this component will display his/her last booking details.  
+ <br></br><img src="" width="600" height="400"/><br></br>
+
+<!-- New User Sign-up -->
+
+<br><b>➤ Sign-up:</b> This component allows new users to sign-up with a username, email and a password. The password is encrypted using the bcrypt library. If an existing user tries to sign-up, a message is displayed to the user for the same.
+<br></br><img src="" width="600" height="400"/><br></br>
+
+<!-- Existing User Login -->
+
+<br><b>➤ User Login:</b> Here, an existing user can log-in using his/her login credentials. And, their previous booking details are also displayed on the component 'Last Booking Details'.  
+ <br></br><img src="" width="600" height="400"/><br></br>
