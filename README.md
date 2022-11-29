@@ -92,9 +92,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <!-- Book Now Button -->
 
 <br><b>➤ Book Now button:</b> This button confirms the user's choices and displays a message to the user that his/her seats have been successfully booked.
-<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/book-now.jpg" width="500" height="200"/><br></br>
-
-<!-- Last 3 ke screenshots abhi aane baaki hai -->
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/book-now.jpg" width="150" height="50"/><br></br>
 
 <!-- Last Booking Details -->
 
@@ -104,9 +102,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <!-- New User Sign-up -->
 
 <br><b>➤ Sign-up:</b> This component allows new users to sign-up with a username, email and a password. The password is encrypted using the bcrypt library. If an existing user tries to sign-up, a message is displayed to the user for the same.
-<br></br><img src="" width="600" height="400"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-up.png" width="600" height="400"/><br></br>
 
 <!-- Existing User Login -->
 
 <br><b>➤ User Login:</b> Here, an existing user can log-in using his/her login credentials. And, their previous booking details are also displayed on the component 'Last Booking Details'.  
- <br></br><img src="" width="600" height="400"/><br></br>
+ <br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-in.png" width="600" height="400"/><br></br>
