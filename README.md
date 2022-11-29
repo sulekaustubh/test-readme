@@ -77,7 +77,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <!-- Select Movie -->
 
 <b>➤ Movie name selection :</b> This component allows the user to select a movie of choice.
-<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-movie.jpeg" width="1200" height="200"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-movie.jpeg" width="1200" height="150"/><br></br>
 
 <!-- Select Time Slot -->
 
@@ -87,7 +87,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <!-- Select Seat Type & Quantity -->
 
 <br><b>➤ Seat Type & Quantity :</b> This component enables user to select a specific seat type and the quantity of seats required. The maximum amount available per user is limited to 10 seats.
-<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-seat.jpeg" width="1200" height="250"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-seat.jpeg" width="1200" height="200"/><br></br>
 
 <!-- Book Now Button -->
 
