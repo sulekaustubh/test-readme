@@ -23,8 +23,9 @@
 
 Clone the repository on your local machine with the command below in your terminal, and cd into the **my-app**
 
+<!-- Insert repo link below -->
+
 ```bash
-# Insert repo link here
 https://
 
 cd my-app
