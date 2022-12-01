@@ -82,7 +82,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <!-- Main UI -->
 
 <b>➤ Main UI :</b> This window represents the main user interface of our web application.
-<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/final-ui.jpeg" width="1200" height="1200"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/final-ui.jpeg" width="1200" height="800"/><br></br>
 
 <!-- Select Movie Slot -->
 
