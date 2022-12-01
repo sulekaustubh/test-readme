@@ -24,7 +24,8 @@
 Clone the repository on your local machine with the command below in your terminal, and cd into the **my-app**
 
 ```bash
-https://github.com/sulekaustubh/crypto-dashboard-react
+# Insert repo link here
+https://
 
 cd my-app
 ```
