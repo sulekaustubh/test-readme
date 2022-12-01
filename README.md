@@ -82,39 +82,39 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <!-- Main UI -->
 
 <b>➤ Main UI :</b> This window represents the main user interface of our web application.
-<br></br><img src="select-movie.jpeg" width="1200" height="200"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/final-ui.jpeg" width="1200" height="200"/><br></br>
 
 <!-- Select Movie Slot -->
 
 <b>➤ Movie name selection :</b> This component allows the user to select a movie of choice.
-<br></br><img src="select-movie.jpeg" width="1200" height="200"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-movie.jpeg" width="1200" height="200"/><br></br>
 
 <!-- Select Time Slot -->
 
 <br><b>➤ Time slot selection:</b> This component displays all the available time slots throughout the day. The user can select according to preference.
-<br></br><img src="select-time.jpg" width="1200" height="200"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-time.jpg" width="1200" height="200"/><br></br>
 
 <!-- Select Seat Type & Quantity -->
 
 <br><b>➤ Seat Type & Quantity :</b> This component enables user to select a specific seat type and the quantity of seats required. The maximum amount available per user is limited to 10 seats.
-<br></br><img src="select-seat.jpeg" width="1200" height="200"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/select-seat.jpeg" width="1200" height="200"/><br></br>
 
 <!-- Book Now Button -->
 
 <br><b>➤ Book Now button:</b> This button confirms the user's choices and displays a message to the user that his/her seats have been successfully booked.
-<br></br><img src="book-now.jpg" width="150" height="70"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/book-now.jpg" width="150" height="70"/><br></br>
 
 <!-- Last Booking Details -->
 
 <br><b>➤ Last Booking Details:</b> If the user is a returning customer and has previously booked for a movie, this component will display his/her last booking details.  
-<br></br><img src="last-booking-details.jpeg" width="400" height="400"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/last-booking-details.jpeg" width="400" height="400"/><br></br>
 
 <!-- New User Sign-up -->
 
 <br><b>➤ Sign-up:</b> This component allows new users to sign-up with a username, email and a password. The password is encrypted using the bcrypt library. If an existing user tries to sign-up, a message is displayed to the user for the same.
-<br></br><img src="sign-up.png" width="1000" height="500"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-up.png" width="1000" height="500"/><br></br>
 
 <!-- Existing User Login -->
 
 <br><b>➤ User Login:</b> Here, an existing user can log-in using his/her login credentials. And, their previous booking details are also displayed on the component 'Last Booking Details'.  
-<br></br><img src="sign-in.png" width="1000" height="500"/><br></br>
+<br></br><img src="https://github.com/sulekaustubh/BookMyShow-screenshots/blob/main/sign-in.png" width="1000" height="500"/><br></br>
